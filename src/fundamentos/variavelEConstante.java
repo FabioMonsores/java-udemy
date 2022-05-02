@@ -21,7 +21,8 @@ public class VariavelEConstante {
 		//Uma variável declarada, não precisa ser re-declarada. Sendo assim, não preciso chamar double e nem final double novamente, apenas usar o nome da variável.
 		raio = 10;
 		area = PI * raio * raio;
-		System.out.println("Área = " + area + "m2");
+		System.out.println("Área = " + area + "m2");		
+		
 	}
 
 }
