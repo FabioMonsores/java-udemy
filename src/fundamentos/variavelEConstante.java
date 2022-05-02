@@ -1,6 +1,6 @@
 package fundamentos;
 
-public class variavelEConstante {
+public class VariavelEConstante {
 	public static void main(String[] args) {
 		
 		/*

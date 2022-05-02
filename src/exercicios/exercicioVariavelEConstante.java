@@ -2,7 +2,7 @@
 
 package exercicios;
 
-public class exercicioVariavelEConstante {
+public class ExercicioVariavelEConstante {
 
 	public static void main(String[] args) {
 		// (°F - 32) X 5/9 = °C
