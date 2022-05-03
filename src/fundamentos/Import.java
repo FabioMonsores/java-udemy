@@ -2,7 +2,7 @@ package fundamentos;
 
 import java.util.Date;
 
-import javax.swing.JButton;
+//import javax.swing.JButton;
 
 //import fica fora da classe
 
@@ -20,7 +20,7 @@ public class Import {
 		Date d = new Date(); // Existem mais de um Date() na API do java para importação
 		System.out.println(d);
 		
-		JButton botao = new JButton(); //Existe apenas um button para importação na API do java
+//		JButton botao = new JButton(); //Existe apenas um button para importação na API do java
 
 		java.lang.String b = "Boa tarde"; // Caminho completo da string dentro do JAVA
 		java.lang.System.out.println(b);
