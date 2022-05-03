@@ -9,7 +9,7 @@ public class NotacaoPonto {
 		//Falando sobre o uso do ponto(.) no JAVA
 		//Para acessarmos um método de um determinado dado e fazer uma ação, usamos a notação ponto.
 		
-		double a = 2.3;
+		//double a = 2.3;
 		String s = "Bom dia X"; //String é uma variável que não é do tipo primitivo. Sempre com S maiúsculo.
 		//Quando temos tipos que não são primitivos, temos a nossa disposição o ponto(.)
 		
