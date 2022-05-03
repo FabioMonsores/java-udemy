@@ -83,7 +83,8 @@ public class NotacaoPonto {
 //		IMPORTANTE - Não posso usar sempre o ponto, pois ele não está presente em todos os cenários, pois não é um tipo primitivo.
 //		 A única coisa que um tipo primitivo tem é o valor, a única coisa que ele armazena é o próprio valor
 //		Tanto que se eu usar ----- a = 2; a. ele não informará nada.
-		
+//		Usamos o ponto com todo resto da API do java com exceção dos 8 tipos primitivos.
+						
 	}
 
 }
