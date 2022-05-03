@@ -13,6 +13,7 @@ public class NotacaoPonto {
 		String s = "Bom dia X"; //String é uma variável que não é do tipo primitivo. Sempre com S maiúsculo.
 		//Quando temos tipos que não são primitivos, temos a nossa disposição o ponto(.)
 		
+		
 		s.toUpperCase(); //Fará minha String ser convertida totalmente para letras em maiúsculo.
 		System.out.println(s.toUpperCase());
 		//Se eu quiser armazenar o valor de s, uso s = s.toUperCase();
