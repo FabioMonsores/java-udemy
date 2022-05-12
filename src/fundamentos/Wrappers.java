@@ -1,7 +1,5 @@
 package fundamentos;
 
-import java.util.Scanner;
-
 public class Wrappers {
 
 	public static void main(String[] args) {
@@ -15,7 +13,7 @@ public class Wrappers {
 		Short s = 1000;
 		Integer i = 10000; // int
 //		Integer i = Integer.parseInt(entrada.next()); //Converte uma String para um valor inteiro.
-		Long l = 1000000L;
+//		Long l = 1000000L;
 		
 		System.out.println(b.byteValue());
 		System.out.println(s.toString()); // Converte para String
